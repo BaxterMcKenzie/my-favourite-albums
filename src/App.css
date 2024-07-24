@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.cardHolder {
+  padding: 50px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+  background-color: #424242;
+}
+
+.albumCard {
+  background: linear-gradient(#ff2e2e,#000000);
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 450px;
+  background-position: center;
+  border-radius: 28px;
+  box-shadow: 10px 11px 4px -2px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 11px 4px -2px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 11px 4px -2px rgba(0,0,0,0.75);
+transition: transform 0.5s ease-in
+}
+
+.albumCard:hover {
+  transform: scale(1.02) rotate(-0.4deg);;
+}
+
+.album-art {
+  width: 100%;
+  height: 450px;
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-image: var(--album-art);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  border-radius: 25px;
+}
+
+.albumDetails {
+  opacity: 0;
+  width: 100%;
+  height: 440px;
+  background: linear-gradient(#ffffff00,#000000de);
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content:flex-end;
+  align-items: center;
+  padding: 20px;
+  transition: opacity 0.5s ease-in;
+}
+
+.albumDetails:hover {
+  opacity: 1;
+}
+
+/* @keyframes mymove {
+  50% {opacity: 0;}
+} */
+
+h1 {
+  font-family: "DM Serif Display", serif;
+  letter-spacing: 2px;
+  color: white;
+  font-size: 38px;
+  text-align: center;
+}
+
+h2 {
+  font-family: "DM Sans", sans-serif;
+  color: #ff2e2e;
+  font-weight: 400;
+  font-size: 24px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+h3 {
+  font-family: "DM Sans", sans-serif;
+  color: white;
+  font-weight: 300;
+  font-size: 16px;
+  text-align: center;
+}
+
+@media screen and (max-width: 992px) {
+  .cardHolder {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+}
+
+@media screen and (max-width: 600px) {
+  .cardHolder {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+}

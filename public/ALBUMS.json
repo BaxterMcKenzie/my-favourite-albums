@@ -1,0 +1,148 @@
+[{
+    "artist": "Weezer",
+    "album_name": "Blue Album",
+    "release_year": "1994",
+    "album_art": "./img/blue_album.webp",
+    "genre": "Alternative/Indie"
+},
+{
+    "artist": "Jeff Rosenstock",
+    "album_name": "We Cool?",
+    "release_year": "2015",
+    "album_art": "./img/we_cool.webp",
+    "genre": "Alternative/Indie - Rock"
+},
+{
+    "artist": "No Doubt",
+    "album_name": "Return of Saturn",
+    "release_year": "2000",
+    "album_art": "./img/return_of.webp",
+    "genre": "Ska Punk - New Wave"
+},
+{
+    "artist": "Paris Texas",
+    "album_name": "Mid Air",
+    "release_year": "2023",
+    "album_art": "./img/mid_air.webp",
+    "genre": "Hip-Hop/Rap"
+},
+{
+    "artist": "Bloc Party",
+    "album_name": "Silent Alarm",
+    "release_year": "2005",
+    "album_art": "./img/silent_alarm.webp",
+    "genre": "Alternative/Indie"
+},
+{
+    "artist": "Kid Cudi",
+    "album_name": "Man on the Moon II",
+    "release_year": "2010",
+    "album_art": "./img/man_moon.webp",
+    "genre": "R&B/Soul - Hip-Hop/Rap"
+},
+{
+    "artist": "Pixies",
+    "album_name": "Doolittle",
+    "release_year": "1989",
+    "album_art": "./img/doolittle.webp",
+    "genre": "Alternative/Indie"
+},
+{
+    "artist": "Lemon Demon",
+    "album_name": "Spirit Phone",
+    "release_year": "2016",
+    "album_art": "./img/spirit_phone.webp",
+    "genre": "Synth-pop - New wave - Electropop"
+},
+{
+    "artist": "Ameer Vann",
+    "album_name": "Emmanuel",
+    "release_year": "2019",
+    "album_art": "./img/emmanuel.webp",
+    "genre": "Hip-Hop/Rap"
+},
+{
+    "artist": "Dominic Fike",
+    "album_name": "Don't Forget About Me",
+    "release_year": "2018",
+    "album_art": "./img/dont_forget.webp",
+    "genre": "Hip-Hop - Rock - Reggae - R&B"
+},
+{
+    "artist": "clipping.",
+    "album_name": "CLPPNG",
+    "release_year": "2014",
+    "album_art": "./img/clipping.webp",
+    "genre": "Hip-Hop/Rap - Rap Québ"
+},
+{
+    "artist": "Run the Jewels",
+    "album_name": "Run the Jewels 2",
+    "release_year": "2014",
+    "album_art": "./img/rtj.webp",
+    "genre": "Hip-Hop/Rap - UK Rap"
+},
+{
+    "artist": "Gorillaz",
+    "album_name": "Demon Days",
+    "release_year": "2005",
+    "album_art": "./img/demon.webp",
+    "genre": "Alternative/Indie - UK R&B"
+},
+{
+    "artist": "Arctic Monkeys",
+    "album_name": "Whatever People Say I Am, That's What I'm Not",
+    "release_year": "2006",
+    "album_art": "./img/artic.webp",
+    "genre": "Indie Rock - Garage Rock - Post-Punk"
+},
+{
+    "artist": "System of a Down",
+    "album_name": "Hypnotize",
+    "release_year": "2005",
+    "album_art": "./img/hypnotize.webp",
+    "genre": "Alternative/Metal - Rock"
+},
+{
+    "artist": "BROCKHAMPTON",
+    "album_name": "Saturation III",
+    "release_year": "2017",
+    "album_art": "./img/sat.webp",
+    "genre": "Hip-Hop/Rap"
+},
+{
+    "artist": "Vince Staples",
+    "album_name": "FM",
+    "release_year": "2018",
+    "album_art": "./img/fm.webp",
+    "genre": "Hip-Hop/Rap"
+},
+{
+    "artist": "Tyler the Creator",
+    "album_name": "Flower Boy",
+    "release_year": "2017",
+    "album_art": "./img/flower.webp",
+    "genre": "Hip-Hop/Rap"
+},
+{
+    "artist": "Joey Valence & Brae",
+    "album_name": "Punk Tactics",
+    "release_year": "2023",
+    "album_art": "./img/punk.webp",
+    "genre": "Alternative/Indie - Hip-Hop/Rap"
+},
+{
+    "artist": "The Killers",
+    "album_name": "Hot Fuss",
+    "release_year": "2004",
+    "album_art": "./img/hot_fuss.webp",
+    "genre": "Alternative/Indie - Dance/Electronic"
+},
+{
+    "artist": "The Kooks",
+    "album_name": "Inside In/Inside Out",
+    "release_year": "2006",
+    "album_art": "./img/inside.webp",
+    "genre": "Alternative/Indie - Pop/Rock"
+}
+]
