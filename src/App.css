@@ -68,10 +68,6 @@ transition: transform 0.5s ease-in
   opacity: 1;
 }
 
-/* @keyframes mymove {
-  50% {opacity: 0;}
-} */
-
 h1 {
   font-family: "DM Serif Display", serif;
   letter-spacing: 2px;
