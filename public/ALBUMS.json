@@ -2,7 +2,7 @@
     "artist": "Weezer",
     "album_name": "Blue Album",
     "release_year": "1994",
-    "album_art": "./img/blue_album.webp",
+    "album_art": "/img/blue_album.webp",
     "genre": "Alternative/Indie"
 },
 {
